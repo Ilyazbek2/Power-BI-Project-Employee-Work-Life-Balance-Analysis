@@ -1,4 +1,4 @@
-# HR Work-Life Balance Analysis (SQL)
+# HR Work-Life Balance Analysis 
 
 ## Objective
 Analyze work-life balance across departments and months using SQL.
