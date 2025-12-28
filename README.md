@@ -1,1 +1,16 @@
-# Power-BI-Project-Employee-Work-Life-Balance-Analysis
+# HR Work-Life Balance Analysis (SQL)
+
+## Objective
+Analyze work-life balance across departments and months using SQL.
+
+## Tools
+- MySQL
+- SQL (GROUP BY, ORDER BY, filtering)
+
+## Key Insights
+- Work-life balance varies by department
+- December shows the lowest balance for Admin Offices
+
+## How to Run
+1. Run create_tables.sql
+2. Execute queries from the queries folder
