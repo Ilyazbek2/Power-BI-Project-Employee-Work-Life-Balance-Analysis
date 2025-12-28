@@ -10,7 +10,3 @@ Analyze work-life balance across departments and months using SQL.
 ## Key Insights
 - Work-life balance varies by department
 - December shows the lowest balance for Admin Offices
-
-## How to Run
-1. Run create_tables.sql
-2. Execute queries from the queries folder
